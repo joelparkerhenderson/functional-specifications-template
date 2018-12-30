@@ -2,7 +2,7 @@
 
 This functional specifications template is adapted from [Electric Power Research Institute](http://www.erpi.com)
 
-For a tutorial on how functional specifications can help your project, you can read this <a href=functional-specifications-tutorial.html>Functional Specifications Tutorial
+For a tutorial on how functional specifications can help your project, you can read this [functional specifications tutorial](http://sixarm.com/functional-specifications-tutorial)
 
 
 ## Overview
